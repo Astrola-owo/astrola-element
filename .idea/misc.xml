@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>PostgreSQL</id>
+          </State>
+          <State>
+            <id>Pug/Jade</id>
+          </State>
+          <State>
+            <id>Qodana</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>可访问性HTML</id>
+          </State>
+          <State>
+            <id>用户定义</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>结构搜索用户定义</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="19-06-2025">
+        <observation name="cancelled" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="19-06-2025">
+        <observation name="count" value="2.0" />
+      </dailyData>
+    </factor>
+  </component>
+</project>

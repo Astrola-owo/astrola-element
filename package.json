@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @astrola-element/docs dev",
     "decs:build": "pnpm --filter @astrola-element/docs build",
     "docs:preview": "pnpm --filter @astrola-element/docs preview",
-    "test": "echp 'todo'"
+    "test": "echo 'todo'"
   },
   "keywords": [],
   "author": "",

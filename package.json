@@ -1,0 +1,42 @@
+{
+  "name": "@astrola-element/workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm --filter @astrola-element/play dev",
+    "docs:dev": "pnpm --filter @astrola-element/docs dev",
+    "decs:build": "pnpm --filter @astrola-element/docs build",
+    "docs:preview": "pnpm --filter @astrola-element/docs preview",
+    "test": "echp 'todo'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "@types/node": "^20.11.20",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue-jsx": "^3.1.0",
+    "@vue/tsconfig": "^0.5.1",
+    "postcss-color-mix": "^1.1.0",
+    "postcss-each": "^1.1.0",
+    "postcss-each-variables": "^0.3.0",
+    "postcss-for": "^2.1.1",
+    "postcss-nested": "^6.0.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.4",
+    "vitest": "^1.4.0",
+    "vue-tsc": "^1.8.27"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "vue": "^3.4.19",
+    "astrola-element": "workspace:*",
+    "@astrola-element/hooks": "workspace:*",
+    "@astrola-element/utils": "workspace:*",
+    "@astrola-element/theme": "workspace:*"
+
+  }
+}
